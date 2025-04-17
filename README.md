@@ -1,4 +1,6 @@
-# Explainable-AI-for-Housing-Markets
+# Transparent Housing Market Insights through Rule-Based Explainable AI
+
+![XAI](explainable_ai.png)
 
 In this project we'll work on AI Explainability methods which are essential to implementing AI in the regulated industries. As a real estate analyst, explore interpretable AI techniques to reveal why prices vary. Use rule-based models to extract decision rules from housing data, visualizing how income, age, and location influence property values. Turn complex market trends into clear, explainable insights, helping stakeholders make informed decisions with transparent AI-driven analysis instead of black-box predictions.
 
